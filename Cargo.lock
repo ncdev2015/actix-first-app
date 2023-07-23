@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "actix-first-webapp"
+name = "actix-first-app"
 version = "0.1.0"
 dependencies = [
  "actix-web",
