@@ -1,8 +1,11 @@
-# actix first web app
+## actix first app
 
-An application developed with Actix Web - A Rust Framework for Web Development
+An application developed with Actix Web
 
-## runnig the web app
+## runnig the app
+
+Open a terminal and execute the following:
+
 ```
 cargo run
 ```
