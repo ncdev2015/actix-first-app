@@ -1,8 +1,12 @@
 ## actix first app
 
-An application developed with Actix Web
+Web API using Actix Web Framework (Rust language)
 
-## runnig the app
+## requirements
+- Rust
+- Cargo
+
+## how to run
 
 Open a terminal and execute the following:
 
